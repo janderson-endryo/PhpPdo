@@ -1,5 +1,5 @@
 <?php 
-require_once "../app/functions/pages.php";
+require_once "../utilizando_função.php";
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
