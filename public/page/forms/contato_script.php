@@ -1,6 +1,6 @@
 <?php 
 
-require_once "../../utilizando_função.php";
+require_once "../../../utilizando_função.php";
 
 dd($_POST);
 ?>
