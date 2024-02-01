@@ -2,5 +2,12 @@
 
 require_once "../../../utilizando_função.php";
 
-dd($_POST);
+
+
+$validate = validate([
+    'password' => 's',
+    'email' => 'e',
+]);
+
+dd($validate -> password);
 ?>
