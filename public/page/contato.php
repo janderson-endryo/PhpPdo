@@ -2,7 +2,7 @@
 // ISSET PESQUISA
 ?>
 
-<form action="./page/forms/contato_script.php" method="post" role="form">
+<form action="./page/forms/contato_script.php" method="POST" role="form">
   <div class="mb-3">
     <label for="email" class="form-label">email</label>
     <input type="email" class="form-control" id="email" name="email" naria-describedby="emailHelp">
